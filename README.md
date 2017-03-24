@@ -8,3 +8,7 @@ larger openings is available as [ntc_chip_lemon_slot.stl](https://github.com/Col
 ![Partially applied cover](https://github.com/Collector3/NTC-CHIP-cover/raw/master/partial.jpg)
 
 ![Side view](https://raw.githubusercontent.com/Collector3/NTC-CHIP-cover/master/side.jpg)
+
+# License
+
+[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
